@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Suman_assignment</string>
+<string name="Recuriter_button">Higher</string>
+<string name="Recuriter2_button">Lower</string>
+<string name="user_dice">Real</string>
+<string name="comp_dice">Real2</string>
+<string name="Result">Result</string>
+<string name="blank_strg"></string>
+
+</resources>
